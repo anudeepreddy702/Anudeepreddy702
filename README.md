@@ -77,7 +77,7 @@ _New England College, Henniker, NH — December 2023_
 
 - [LinkedIn](https://www.linkedin.com/in/polepally-anudeep)  
 - [Portfolio Website](https://anudeep-polepally.vercel.app)  
-- 📧 [anudeepreddypolepally@gmail.com](mailto:anudeepreddypolepally@gmail.com)
+- [anudeepreddypolepally@gmail.com](mailto:anudeepreddypolepally@gmail.com)
 
 ---
 
