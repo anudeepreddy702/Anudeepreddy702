@@ -18,7 +18,7 @@ _New England College, Henniker, NH — December 2023_
 
 ## 💼 Professional Experience  
 
-### **Frontend Developer @ Verizon** _(Oct 2023 – Present)_  
+### **Frontend Developer @ Verizon** _(January 2024 – Present)_  
 - Built and maintained **SPA applications** using Angular (v12–15), TypeScript, and NgRx.  
 - Improved performance with **lazy loading**, **code splitting**, and **change detection tuning**.  
 - Automated CI/CD pipelines via **GitLab** and ensured **WCAG accessibility**.  
@@ -29,7 +29,7 @@ _New England College, Henniker, NH — December 2023_
 - Designed reusable UI components and enhanced app maintainability.  
 - Improved load performance and integrated RESTful APIs efficiently.  
 
-### **Software Engineer @ Genpact** _(May 2019 – Apr 2021)_  
+### **Software Engineer @ Genpact** _(August 2019 – Apr 2021)_  
 - Developed scalable React and Angular applications for enterprise systems.  
 - Worked with **Spring Boot**, **MySQL**, and **MongoDB** for full-stack integration.  
 - Reduced app crashes by 30% through React optimization and API debugging.  
