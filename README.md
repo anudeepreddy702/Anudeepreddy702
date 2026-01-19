@@ -49,13 +49,23 @@ _New England College, Henniker, NH — December 2023_
 
 ## 🚀 Featured Projects  
 
-### 🏦 **Enterprise Investment Platform**  
-> A financial web app built using Angular & TypeScript to visualize live market data via WebSockets.  
-> Improved UI performance by 40% through optimization and modular architecture.  
 
-### 🌍 **A Shot of the World**  
-> Personal bucket list app built with React and Vite to document travel experiences.  
-> Focused on accessibility, responsiveness, and UI aesthetics using SCSS.  
+### **Andy’s World - Personal Portfolio Website**
+> Designed and deployed a personal portfolio website to showcase projects, technical skills, and professional background.
+> Built a responsive, modern UI with clear information architecture, emphasizing usability and performance across 
+devices.
+> Integrated live project demos and GitHub repositories to demonstrate real-world frontend development experience.
+
+### **A Shot of the World - Travel Bucket List Web App**  
+> Developed a React-based web application using Vite to document and organize travel bucket-list experiences.
+> Implemented reusable UI components with responsive layouts using CSS/SCSS, focusing on accessibility and clean visual design.
+> Structured the application for scalability and maintainability with component-driven architecture.
+
+### **Custom Money Comparison Tool**
+> Built a client-side financial comparison tool using JavaScript and React to compare monetary values across different inputs and scenarios.
+> Implemented dynamic calculations and real-time UI updates to provide immediate feedback based on user selections.
+> Focused on clarity, input validation, and user-friendly design to simplify financial comparisons.
+---
 
 ---
 
@@ -75,9 +85,7 @@ _New England College, Henniker, NH — December 2023_
 
 ## 🤝 Let's Connect  
 
-- [LinkedIn](https://www.linkedin.com/in/polepally-anudeep)  
-- [Portfolio Website](https://anudeep-polepally.vercel.app)  
-- [anudeepreddypolepally@gmail.com](mailto:anudeepreddypolepally@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/polepally-anudeep)  | [Portfolio Website](https://anudeep-polepally.vercel.app) | [anudeepreddypolepally@gmail.com](mailto:anudeepreddypolepally@gmail.com)
 
 ---
 
