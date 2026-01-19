@@ -10,69 +10,69 @@ _New England College, Henniker, NH — December 2023_
 ---
 
 ## 🔭 Current Focus  
-- Advancing expertise in **React 18+**, **Angular 17**, and **TypeScript**  
-- Exploring **Edge-first architectures**, **AI-driven UI optimization**, and **real-time web applications**  
-- Improving **frontend performance, accessibility**, and **developer experience**  
+- Advancing expertise in **React 18+**, **Angular 17+**, and **TypeScript**  
+- Exploring **Performance Optimization**, **Web Accessibility (WCAG)**, and **Modern State Management**  
+- Building **scalable enterprise applications** with **CI/CD automation** and **testing best practices**  
 
 ---
 
 ## 💼 Professional Experience  
 
 ### **Frontend Developer @ Verizon** _(January 2024 – Present)_  
-- Built and maintained **SPA applications** using Angular (v12–15), TypeScript, and NgRx.  
-- Improved performance with **lazy loading**, **code splitting**, and **change detection tuning**.  
-- Automated CI/CD pipelines via **GitLab** and ensured **WCAG accessibility**.  
-- Led testing efforts with **Jest** and **Cypress**, achieving 90%+ coverage.  
+- Built and maintained **enterprise-scale SPAs** using **React**, **TypeScript**, and **JavaScript (ES6+)**.  
+- Implemented **state management** with **Redux**, **Context API**, and **Zustand** for predictable data flow.  
+- Optimized performance through **code splitting**, **lazy loading**, and **memoization** (useMemo/useCallback).  
+- Achieved **90%+ test coverage** using **Jest**, **React Testing Library**, and **Cypress**.  
+- Automated **CI/CD pipelines** with **GitLab** and ensured **WCAG accessibility compliance**.  
 
 ### **UI Developer @ GlobalLogic Inc** _(May 2021 – July 2022)_  
-- Architected **state management** using NgRx, Angular Signals, and RxJS.  
-- Designed reusable UI components and enhanced app maintainability.  
-- Improved load performance and integrated RESTful APIs efficiently.  
+- Architected **state management** solutions using **NgRx**, **Angular Signals**, **RxJS**, and **Redux**.  
+- Built reusable UI components in both **Angular** and **React** with **TypeScript**.  
+- Improved **code coverage by 20%** through comprehensive unit testing with **Jest**.  
+- Enhanced performance by reducing bundle sizes and implementing lazy loading techniques.  
 
-### **Software Engineer @ Genpact** _(August 2019 – Apr 2021)_  
-- Developed scalable React and Angular applications for enterprise systems.  
-- Worked with **Spring Boot**, **MySQL**, and **MongoDB** for full-stack integration.  
-- Reduced app crashes by 30% through React optimization and API debugging.  
+### **Software Engineer @ Genpact** _(August 2019 – April 2021)_  
+- Developed scalable web applications using **React.js**, **Angular**, and **TypeScript**.  
+- Implemented backend features with **Java/J2EE**, **Spring Boot**, and **microservices architecture**.  
+- Reduced application crashes by **30%** through React optimization and API debugging.  
+- Collaborated with QA teams to establish automated testing frameworks, reducing bug detection time by **25%**.  
 
 ---
 
 ## 🧠 Technical Expertise  
 
-**Frontend:** Angular, React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS, Bootstrap  
-**Backend:** Node.js, Java/J2EE, RESTful APIs, GraphQL (basic)  
-**State Management:** NgRx, Redux, Zustand, Angular Signals, RxJS  
-**Testing:** Jest, Cypress, React Testing Library  
-**DevOps:** Docker, Kubernetes, GitLab CI/CD, AWS  
-**Databases:** MongoDB, MySQL  
+**Frontend:** HTML5, CSS3, SCSS, Sass, Tailwind CSS, Angular (v12-18), React.js (v16-18), TypeScript, JavaScript (ES6+), Material-UI, Bootstrap  
+**State Management:** NgRx, Angular Signals, RxJS, Redux, Redux Toolkit, Zustand, Context API  
+**Backend & APIs:** Node.js, Express.js, Java/J2EE, Spring Boot, RESTful APIs, GraphQL, Microservices  
+**Testing:** Jest, Cypress, React Testing Library, Jasmine, Karma, Unit/Integration/E2E Testing  
+**DevOps & Cloud:** AWS (S3, EC2, Lambda), Azure, Docker, Kubernetes, Jenkins, GitLab CI/CD  
+**Tools:** Git, GitHub, GitLab, Bitbucket, Webpack, Vite, Babel, npm, yarn, Chrome DevTools  
+**Databases:** MongoDB, MySQL, PostgreSQL, NoSQL  
+**Best Practices:** Agile/Scrum, WCAG 2.1, Performance Optimization, Code Reviews, SEO  
 
 ---
 
 ## 🚀 Featured Projects  
 
+### **Andy's World - Personal Portfolio Website**
+> Designed and deployed a responsive portfolio website showcasing projects, technical skills, and professional background.  
+> Built a modern UI with clear information architecture, emphasizing usability and performance across devices.  
+> Integrated live project demos and GitHub repositories to demonstrate real-world frontend development experience.  
+> **Tech Stack:** React, TypeScript, CSS3, Responsive Design
 
-### **Andy’s World - Personal Portfolio Website**
-> Designed and deployed a personal portfolio website to showcase projects, technical skills, and professional background.
-> Built a responsive, modern UI with clear information architecture, emphasizing usability and performance across 
-devices.
-> Integrated live project demos and GitHub repositories to demonstrate real-world frontend development experience.
-
-### **A Shot of the World - Travel Bucket List Web App**  
-> Developed a React-based web application using Vite to document and organize travel bucket-list experiences.
-> Implemented reusable UI components with responsive layouts using CSS/SCSS, focusing on accessibility and clean visual design.
-> Structured the application for scalability and maintainability with component-driven architecture.
-
-### **Custom Money Comparison Tool**
-> Built a client-side financial comparison tool using JavaScript and React to compare monetary values across different inputs and scenarios.
-> Implemented dynamic calculations and real-time UI updates to provide immediate feedback based on user selections.
-> Focused on clarity, input validation, and user-friendly design to simplify financial comparisons.
----
+### **A Shot of the World - Travel Bucket List & Currency Comparison Tool**  
+> Built interactive web applications using **React** and **Vite** for travel planning and financial comparisons.  
+> Implemented reusable UI components, real-time calculations, and responsive layouts with focus on accessibility.  
+> Designed clean interfaces and structured codebase for maintainability and scalability.  
+> **Tech Stack:** React, Vite, JavaScript (ES6+), SCSS, REST APIs
 
 ---
 
 ## ⚙️ Technologies & Tools  
 
-`React` `Angular` `TypeScript` `JavaScript` `Node.js` `RxJS` `NgRx` `Redux`  
-`Jest` `Cypress` `GitLab` `AWS` `Docker` `MongoDB` `MySQL`
+`React` `Angular` `TypeScript` `JavaScript` `Node.js` `RxJS` `NgRx` `Redux` `Zustand`  
+`Jest` `Cypress` `React Testing Library` `GitLab CI/CD` `AWS` `Docker` `Kubernetes`  
+`MongoDB` `MySQL` `PostgreSQL` `Spring Boot` `Microservices` `WCAG` `Performance Optimization`
 
 ---
 
@@ -85,13 +85,16 @@ devices.
 
 ## 🤝 Let's Connect  
 
-- [LinkedIn](https://www.linkedin.com/in/polepally-anudeep)  | [Portfolio Website](https://anudeep-polepally.vercel.app) | [anudeepreddypolepally@gmail.com](mailto:anudeepreddypolepally@gmail.com)
+📧 [anudeepreddypolepally@gmail.com](mailto:anudeepreddypolepally@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/polepally-anudeep)  
+🌐 [Portfolio Website](https://anudeep-polepally.vercel.app)  
+📱 (669) 250-5207
 
 ---
 
 ### ⚡ Fun Fact  
-I love designing **UI animations** and fine-tuning **micro-interactions** that make web experiences feel alive.  
-When I’m not coding, you’ll find me exploring photography, ambient music, or creative travel journaling.  
+I'm passionate about **performance optimization** and **accessibility best practices** that make web experiences fast, inclusive, and delightful.  
+When I'm not coding, you'll find me exploring photography, ambient music, or creative travel journaling.  
 
 ---
 
