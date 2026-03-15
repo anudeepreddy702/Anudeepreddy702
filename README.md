@@ -2,10 +2,10 @@
 
 ## 💡 About Me  
 I'm a passionate **Frontend Engineer** based in Boston, MA, with over **4 years of professional experience** building modern, high-performance web applications.  
-I love creating user-focused interfaces that merge functionality and design — turning ideas into responsive, elegant, and scalable digital experiences.  
+I love creating user-focused interfaces that merge functionality and design turning ideas into responsive, elegant, and scalable digital experiences.  
 
 🎓 **Master of Science in Computer Information Systems**  
-_New England College, Henniker, NH — December 2023_  
+_New England College, Henniker, NH - December 2023_  
 
 ---
 
